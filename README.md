@@ -1,0 +1,1 @@
+see https://github.com/googlemaps/v3-utility-library/issues/524
